@@ -20,5 +20,6 @@ class Employee:
 ob1 = Employee("Rakib", 50000)
 ob2 = Employee("Hasan", 70000)
 
-ob1.get_salary("Admin")
+# ob1.get_salary("Admin")
+ob1.set_salary("Admin", 60000)
 
