@@ -28,3 +28,4 @@ class Shape:
         
 p = Shape()
 print(p.area(12))
+print(p.area(12,15))
